@@ -44,3 +44,24 @@ And now we have a budget setup
 
 ![](week0_files/4_budget.png)
 
+## Create a Budget Alarm
+
+1. Click the budget created, and then click the `edit`.
+   
+   ![](week0_files/5_alarm.png)
+   
+2. Leave the `Set your budget` as is for now and click `next`.
+
+   ![](week0_files/6_alarm.png)
+
+3. In the `Configure Alerts`, we can now set up the budget alarm. We can have different kinds of alarm set up here.
+   
+   ![](week0_files/7_alarm.png)
+
+   ![](week0_files/8_alarm.png)
+
+   ![](week0_files/9_alarm.png)
+
+4. We can skip the `attach actions` for now and hit the `next` button.
+
+5. Afterwards, we will review the created budget alarm and then hit `save` button

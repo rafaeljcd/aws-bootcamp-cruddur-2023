@@ -151,3 +151,19 @@ And now we have a budget setup
 1. It looks like the `Singapore` region doesn't have the cloud shell
 
    ![](week0_files/27_cloudshell.png)
+
+2. Switch to the `Tokyo` region, and now we can see the cloudshell. Click the Cloudshell button.
+
+   ![](week0_files/28_cloudshell.png)
+3. Enter the cloudshell.
+   
+   ![](week0_files/29_cloudshell.png)
+
+   ![](week0_files/30_cloudshell.png)
+4. Enter the `aws --cli-auto-prompt` in cloudshell and find the `aws sts get-caller-identity`
+
+   ![](week0_files/31_cloudshell.png)
+
+5. We can now see the information about our account.
+   
+   ![](week0_files/32_cloudshell.png)

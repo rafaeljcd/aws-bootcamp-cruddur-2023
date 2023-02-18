@@ -135,3 +135,19 @@ And now we have a budget setup
 15. Now we have successfully created an alias for our Sign-in URL link.
    
    ![](week0_files/24_alias.png)
+
+16. Using the console login url, add it to the browser.
+
+   ![](week0_files/25_admin.png)
+
+17. Enter te username and password and now, we can log in to our created admin account.
+
+   ![](week0_files/26_admin.png)
+
+---
+
+## Use CloudShell
+
+1. It looks like the `Singapore` region doesn't have the cloud shell
+
+   ![](week0_files/27_cloudshell.png)

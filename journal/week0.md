@@ -1,5 +1,18 @@
 # Week 0 — Billing and Architecture
 
+<!-- TOC -->
+* [Week 0 — Billing and Architecture](#week-0--billing-and-architecture)
+  * [Lucid Chart](#lucid-chart)
+    * [Conceptual Diagram](#conceptual-diagram)
+    * [Logical Architectual Diagram](#logical-architectual-diagram)
+  * [Create a Budget](#create-a-budget)
+  * [Create a Budget Alarm](#create-a-budget-alarm)
+  * [Create an Admin User](#create-an-admin-user)
+  * [Use CloudShell](#use-cloudshell)
+  * [Generate AWS Credentials](#generate-aws-credentials)
+  * [Installed AWS CLI](#installed-aws-cli)
+<!-- TOC -->
+
 ## Lucid Chart
 
 ### Conceptual Diagram
@@ -140,7 +153,7 @@ And now we have a budget setup
 
    ![](week0_files/25_admin.png)
 
-17. Enter te username and password and now, we can log in to our created admin account.
+17. Enter the username and password and now, we can log in to our created admin account.
 
    ![](week0_files/26_admin.png)
 
@@ -167,3 +180,11 @@ And now we have a budget setup
 5. We can now see the information about our account.
    
    ![](week0_files/32_cloudshell.png)
+
+---
+
+## Generate AWS Credentials
+
+---
+
+## Installed AWS CLI
